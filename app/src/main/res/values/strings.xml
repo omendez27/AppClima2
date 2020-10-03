@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Climas Locales</string>
+    <string name="txtGrados">16</string>
+    <string name="txtCiudad">La Esperanza</string>
+    <string name="txtEstado">Parcialmente nublado</string>
+    <string name="txtMensajeB">
+        Bienvenido a la app del clima, para ver una ciudad selecciona una opción en la parte inferior
+    </string>
+    <string name="btnLaEza">La Esperanza, Intibucá</string>
+    <string name="btnIntibuca">Intibucá,Intibucá</string>
+    <string name="btnCamasca">Camasca, Intibucá</string>
+</resources>
